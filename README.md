@@ -1,9 +1,9 @@
 效果图：
 
-<img href="./imgs/1.png"/>
+<img src="./imgs/1.png" alt="加载失败"/>
 <hr>
 
-<img href="./imgs/2.png"/>
+<img src="./imgs/2.png" alt="加载失败"/>
 
 
 # Vue_Project
