@@ -1,3 +1,11 @@
+效果图：
+
+<img href="./imgs/1.png"/>
+<hr>
+
+<img href="./imgs/2.png"/>
+
+
 # Vue_Project
 
 ## Project setup
@@ -65,6 +73,8 @@ AIP文档：
     
     
     node app.js
+    
+    
     
 github：<a href="https://github.com/github-HDC?tab=repositories">https://github.com/github-HDC?tab=repositories</a>
 
