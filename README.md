@@ -73,8 +73,9 @@ AIP文档：
     
     
     node app.js
-    
-    
+    <br/>
+    适用于新手上手
+    <br/>
     
 github：<a href="https://github.com/github-HDC?tab=repositories">https://github.com/github-HDC?tab=repositories</a>
 
